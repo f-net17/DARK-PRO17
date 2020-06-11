@@ -6,6 +6,6 @@
 $ pkg install git python2<br>
 $ pip2 install -U pip requests bs4 mechanize<br>
 $ git clone https://github.com/f-net17/DARK-PRO17<br>
-$ cd Dark-Fb<br>
+$ cd DARK-PRO17<br>
 $ python2 dark.py<br>
 <h1><a
